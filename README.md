@@ -2,11 +2,11 @@
 league-file-system-sample<br>
 
 #initialize composer project<br>
-composer init
+composer init<br>
 
-#add dependencies
+#add dependencies<br>
 composer require league/flysystem<br>
-composer require league/flysystem-sftp
+composer require league/flysystem-sftp<br>
 
 #install flysystem and flysytem-sftp<br>
 composer install<br>

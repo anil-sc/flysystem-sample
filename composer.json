@@ -1,0 +1,13 @@
+{
+    "name": "anils/league",
+    "authors": [
+        {
+            "name": "saneel",
+            "email": "ashrestha@deerhold.org"
+        }
+    ],
+    "require": {
+        "league/flysystem": "^2.0",
+        "league/flysystem-sftp": "^2.0"
+    }
+}

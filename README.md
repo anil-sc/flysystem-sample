@@ -1,13 +1,13 @@
 # flysystem-sample
-league-file-system-sample
+league-file-system-sample<br>
 
-#initialize composer project
+#initialize composer project<br>
 composer init
 
-#install flysystem and flysytem-sftp
+#install flysystem and flysytem-sftp<br>
 
 composer require league/flysystem<br>
 composer require league/flysystem-sftp
 
-#run
+#run<br>
 php Sample.php
